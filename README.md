@@ -1,4 +1,4 @@
-Hello there, I'm Axel :)
+Hello there, I'm Axel 😄
 
 - 🔭 I’m currently working on learning programming
 - 🌱 I’m currently learni ng to improve myself
